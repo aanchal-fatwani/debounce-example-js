@@ -12,4 +12,7 @@ https://docs.google.com/spreadsheets/d/13lpfIw2isDKy_i-30TMO_gMDmOJJA9ka41_IoXAL
 JSON endpoint :</br>
 https://script.google.com/macros/s/AKfycbwZOjEDMw2ui12ppfK2MK2i2QUGZ4ZHaN3eVeXT8pltcGcDIcE/exec</br>
 
+Code SandBox Link :</br>
+https://codesandbox.io/s/elegant-kilby-nmw94</br>
+
 (This is sample data and there is no assurity of accuracy of this data.)
